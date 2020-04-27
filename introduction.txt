@@ -1,0 +1,13 @@
+INSTRUCTIONS:
+Change the content in this file to match your information.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Name: Kairui Zeng
+
+Favourite Sport: Badminton
+
+Favourite Colour: Purple
+
+Coop Term #: 2
+
